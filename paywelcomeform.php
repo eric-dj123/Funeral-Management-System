@@ -51,7 +51,7 @@ curl_setopt_array($curl, array(
 {
   "telephoneNumber" : "'.$phone.'",
   "amount" : 100.0,
-  "organizationId" : "22278efe-21c1-4381-b07b-1485eb34c9fb",
+  "organizationId" : "a6c9d983-d445-441b-9260-cabadd849d22",
   "description" : "Funeral Management System",
   "callbackUrl" : "http://localhost/funeral/fail.php",
   "transactionId" : "'.$uuid.'"
